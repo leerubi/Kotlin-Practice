@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">leerubi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is leerubi.
+    \n\n I love Gopchang.
+    \n\n I love Jeawon. This is Ru. This is Ru. This is Ru.
+         This is Ru.This is Ru.This is Ru.This is Ru. This is Ru.
+        This is Ru.This is Ru.This is Ru.This is Ru.This is Ru.
+        \n\n I love Gopchang.
+    \n\n I love Jeawon.
+         \n\n I love Gopchang.This is Ru.This is Ru.This is Ru.This is Ru.
+        This is Ru.This is Ru.This is Ru.This is Ru.This is Ru.
+    \n\n I love Jeawon.
+         \n\n I love Gopchang. This is Ru.This is Ru.This is Ru.
+        This is Ru.This is Ru.This is Ru.This is Ru.
+    \n\n I love Jeawon.
+         \n\n I love Gopchang.
+    \n\n I love Jeawon.
+         \n\n I love Gopchang.
+    \n\n I love Jeawon.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
